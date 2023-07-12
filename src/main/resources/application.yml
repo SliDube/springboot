@@ -1,0 +1,11 @@
+
+spring:
+  application:
+    name: Flowershop App
+
+  datasource:
+    dbcp2.driver-class-name: com.mysql.cj.jdbc.Driver
+    url: 'jdbc:mysql://localhost:3306/flowershop'
+    username: root
+    password: root
+
